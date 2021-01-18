@@ -1,0 +1,25 @@
+[
+	{
+		"title": "dfasdfaksdf;sadlkf!",
+		"author": {
+			"name": "dfsdfasdf"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/fysica.jpg"
+		},
+		"category": "science",
+		"isbn": "ISBN",
+		"year": 2020,
+		"content": {
+			"summary": "Illum vero itaque et. Rem est ut id. Debitis aut ab quibusdam. Accusamus et dicta corporis cumque aut fugiat necessitatibus.",
+			"backcover": [
+				"Est iure sit incidunt ut distinctio unde. Cum laboriosam non suscipit. Sint modi ut velit voluptatibus necessitatibus. Cupiditate possimus voluptatum ut nemo eum magnam blanditiis optio. Numquam autem quis praesentium non ea. Nesciunt fugiat adipisci voluptates recusandae sit odio similique.",
+				"Consequuntur nobis pariatur et cum aut atque voluptatibus. Error iste voluptatem temporibus veniam recusandae. Possimus vitae est deleniti fugit qui tenetur hic. Voluptates voluptatum sed nemo velit magni soluta quia. Sint sapiente aut nihil et alias ut consectetur.",
+				"At ea officiis in exercitationem et. Ipsam in corrupti rerum error minima corporis aperiam nulla. Eos impedit suscipit atque enim voluptatem.",
+				"Natus dolor enim accusamus et. Eum est assumenda quia cupiditate perferendis. Quisquam dolorem officia aliquam cum saepe quia delectus cupiditate. Qui perspiciatis odio ea vero commodi dolorem harum."
+			]
+		},
+		"website": "https://www.lievenscheire.be"
+	}
+]

@@ -1,0 +1,39 @@
+{
+  "name": "my-library",
+  "version": "1.0.0",
+  "description": "ReactJS website with a list of my favorite (sciencecommunication) books",
+  "private": true,
+  "author": {
+    "name": "Bert Van Poecke",
+    "url": "https://bert.vanpoecke.org"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.9.1",
+    "clsx": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
