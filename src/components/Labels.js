@@ -1,6 +1,7 @@
 import React from 'react';
 import Chip from '@material-ui/core/Chip';
 import FunctionsIcon from '@material-ui/icons/Functions';
+import HistoryIcon from '@material-ui/icons/History';
 import PublicIcon from '@material-ui/icons/Public';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDna } from '@fortawesome/free-solid-svg-icons'
@@ -27,6 +28,17 @@ function WorldLabel(props) {
 	);
 }
 
+function HistoryLabel(props) {
+	return (
+		<Chip
+			icon={<HistoryIcon />}
+			label="Geschiedenis"
+			variant="outlined"
+			{...props}
+		/>
+	);
+}
+
 function DNALabel(props) {
 	return (
 		<Chip
@@ -41,5 +53,6 @@ function DNALabel(props) {
 export {
 	MathLabel,
 	WorldLabel,
+	HistoryLabel,
 	DNALabel
 };

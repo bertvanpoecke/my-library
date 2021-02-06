@@ -1,25 +1,212 @@
 [
 	{
-		"title": "dfasdfaksdf;sadlkf!",
+		"title": "Lieven Scheire in zijn element: fysica!",
 		"author": {
-			"name": "dfsdfasdf"
+			"name": "Lieven Scheire"
 		},
 		"media": {
 			"title": "image title",
 			"src": "/static/images/fysica.jpg"
 		},
 		"category": "science",
-		"isbn": "ISBN",
-		"year": 2020,
+		"isbn": "ISBN 978-90-89313-36-2",
+		"year": 2012,
 		"content": {
-			"summary": "Illum vero itaque et. Rem est ut id. Debitis aut ab quibusdam. Accusamus et dicta corporis cumque aut fugiat necessitatibus.",
+			"summary": "Bekende fysische verschijnselen in een begrijpelijke notendop.",
 			"backcover": [
-				"Est iure sit incidunt ut distinctio unde. Cum laboriosam non suscipit. Sint modi ut velit voluptatibus necessitatibus. Cupiditate possimus voluptatum ut nemo eum magnam blanditiis optio. Numquam autem quis praesentium non ea. Nesciunt fugiat adipisci voluptates recusandae sit odio similique.",
-				"Consequuntur nobis pariatur et cum aut atque voluptatibus. Error iste voluptatem temporibus veniam recusandae. Possimus vitae est deleniti fugit qui tenetur hic. Voluptates voluptatum sed nemo velit magni soluta quia. Sint sapiente aut nihil et alias ut consectetur.",
-				"At ea officiis in exercitationem et. Ipsam in corrupti rerum error minima corporis aperiam nulla. Eos impedit suscipit atque enim voluptatem.",
-				"Natus dolor enim accusamus et. Eum est assumenda quia cupiditate perferendis. Quisquam dolorem officia aliquam cum saepe quia delectus cupiditate. Qui perspiciatis odio ea vero commodi dolorem harum."
+				"Lieven Scheire houdt van fysica en toont met plezier hoe ontroerend een formule kan zijn, hoe elegant het universum, hoe grappig een theorie. Wie de fysica niet lust, heeft ze volgens Scheire nooit smakelijk geserveerd gekregen. Dat is precies wat dit boekje wel doet: mensen goesting doen krijgen. De relativiteitstheorie, kernsplitsing, de baan van de aarde en het bizarre gedrag van kwantumdeeltjes, de mooiste pareltjes uit de fysica doet Scheire kristalhelder en in al hun schoonheid uit de doeken."
 			]
 		},
 		"website": "https://www.lievenscheire.be"
+	},
+	{
+		"title": "DNA",
+		"author": {
+			"name": "Lieven Scheire"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/DNA.png"
+		},
+		"category": "science",
+		"isbn": "ISBN 978-94-63931-06-9",
+		"year": 2019,
+		"content": {
+			"summary": "Hoe de menselijke genetica ook jouw leven zal veranderen.",
+			"backcover": [
+				"Een halve eeuw geleden al huppelden de eerste mensen op de Maan, maar pas de jongste jaren geeft ons DNA zijn geheimen prijs. De ene doorbraak volgt de andere in sneltempo op en het gaat zo hard dat de wetgeving niet kan volgen. In ‘DNA’ maakt Lieven Scheire niet alleen de nieuwste inzichten in het genetica-onderzoek aanschouwelijk, hij werpt ook prangende vragen op.",
+				"De eerste genetisch gemanipuleerde mens is intussen geboren, maar zou jij jouw eigen kind genetisch laten aanpassen? Zo kan je zware ziektes voorkomen en meteen kan je hem of haar ook wat extra talenten toestoppen. Maar wat gaan we toelaten en wat niet? Moet de politie toegang krijgen tot het DNA van haar burgers? Je kan vrezen voor een politiestaat, maar nieuwe DNA-technieken werpen wel licht op moordzaken die lange tijd onopgelost bleven. Laat je jouw DNA uitlezen voor stamboomonderzoek? Prima, maar dan achterhaal je mogelijk een vervelende waarheid over de huwelijkse trouw van jouw grootmoeder.",
+				"Lieven Scheire werpt een blik op de nabije toekomst van de menselijke genetica en je mag zelf beslissen of die toekomst jou hoopvol of angstig stemt. Ondertussen kan je wel uitpakken met honderden razend interessante weetjes over ons DNA."
+			]
+		},
+		"website": "https://www.lievenscheire.be"
+	},
+	{
+		"title": "Rekenen op een bierviltje",
+		"author": {
+			"name": "Lawrence Weinstein & John A. Adam"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/rekenen_op_een_bierviltje.jpg"
+		},
+		"category": "mathematics",
+		"isbn": "ISBN 978-90-85715-63-4",
+		"year": 2016,
+		"content": {
+			"summary": "Populaire wiskunde afgerond op de dichtstbijzijnde macht van tien. ;) Leer handig schatten, een belangrijke vaardigheid in het dagelijks leven.",
+			"backcover": [
+				"We krijgen de hele dag informatie op ons afgevuurd in de vorm van getallen. Honderden miljarden euro's, tientallen lichtjaren of duizenden kubieke kilometers - wat betekent dat allemaal nou echt? De schrijvers van dit boek zorgen ervoor dat je een gevoel kweekt voor grote getallen. Ze loodsen je door originele rekensommen heen, waardoor je goed leert schatten en verhoudingen leert begrijpen. Uit hoeveel cellen bestaat je lichaam? Hoe lang zijn alle hoofdharen van een gemiddelde vrouw bij elkaar opgeteld? Hoeveel golfballen kun je op de evenaar leggen? Bij elke vraag kun je kiezen of je de geboden hints wel of niet gebruikt. Daardoor kan zowel de puzzelaar als de echte wiskundige zich helemaal uitleven."
+			]
+		},
+		"website": "https://www.standaardboekhandel.be/p/rekenen-op-een-bierviltje-9789085715634"
+	},
+	{
+		"title": "Knagende vragen over alledaagse verschijnselen",
+		"author": {
+			"name": "Bram Vermeer"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/knagende_vragen.jpg"
+		},
+		"category": "science",
+		"isbn": "ISBN 978-90-46806-35-7",
+		"year": 2009,
+		"content": {
+			"summary": "Het boek geeft de wetenschappelijke achtergronden van honderden alledaagse verschijnselen.",
+			"backcover": [
+				"Waarom hebben mannen tepels? Waarom lusten kinderen geen groente? Waarom zijn vrouwen eerder dronken dan mannen? Waarom is snot lekker? Allemaal vragen die beginnen met verwondering over de gewoonste dingen in het leven. Wie heeft zich niet een keer, liggend op een grasveld, afgevraagd waarom wolken er zo bloemkoolachtig uitzien?",
+				"De kwesties in dit boek zijn altijd helder en voor iedereen aansprekend opgeschreven."
+			]
+		},
+		"website": "https://www.vermeer.net/"
+	},
+	{
+		"title": "Het exacte verhaal: Wetenschapscommunicatie voor bèta's",
+		"author": {
+			"name": "Ionica Smeets"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/het_exacte_verhaal.jpg"
+		},
+		"category": "science",
+		"isbn": "ISBN 978-90-57123-93-1",
+		"year": 2014,
+		"content": {
+			"summary": "Het exacte verhaal is een praktische gids voor bètawetenschappers, ingenieurs, redacteuren, voorlichters, docenten, en anderen die ingewikkelde concepten toegankelijk willen maken voor een breed publiek.",
+			"backcover": [
+				"Als bètawetenschapper is het niet eenvoudig om je werk onder de aandacht te brengen bij een groot publiek. Niet omdat exacte wetenschappen per se moeilijk zijn, maar omdat voor veel mensen Higgs-deeltjes en priemgetallen abstracter lijken dan oorlog en liefde.",
+				"Hoe breng je de kern van je onderzoek over? Waar let je op bij de keuze van een onderwerp? Hoe schrijf je een aansprekend persbericht of een toegankelijk artikel voor de krant? Gebruik je metaforen en formules, of juist niet? Hoe bereid je een interview voor? Wat maakt je lezing inspirerend voor niet-vakgenoten?",
+				"Ionica Smeets geeft tal van praktische tips en adviezen, aan de hand van haar eigen ervaringen én die van prominente wetenschappers en journalisten als Robbert Dijkgraaf, Rob van Hattum, Margriet van der Heijden, Diederik Jekel, Lieven Scheire, Govert Schilling en Freek Vonk."
+			]
+		},
+		"website": "https://www.ionica.nl/"
+	},
+	{
+		"title": "Klassiek: een geschiedenis van de Grieks-Romeinse wereld",
+		"author": {
+			"name": "Anton van Hooff"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/klassiek.jpg"
+		},
+		"category": "history",
+		"isbn": "ISBN 978-90-26326-55-4",
+		"year": 2013,
+		"content": {
+			"summary": "Anton van Hooff neemt de lezer in zijn onmisbare standaardwerk Klassiek mee naar een wereld die voor velen tot de verbeelding spreekt: de Grieks-Romeinse oudheid.",
+			"backcover": [
+				"Anton van Hooff neemt de lezer in zijn onmisbare standaardwerk Klassiek mee naar een wereld die voor velen tot de verbeelding spreekt: de Grieks-Romeinse oudheid.",
+				"De Grieks-Romeinse oudheid heeft de westerse beschaving op tal van gebieden geïnspireerd: op politiek, cultureel en intellectueel niveau. In die zin was zij 'klassiek': een voorbeeld, model, norm.",
+				"Anton van Hooff schetst in Klassiek het samenhangende historische verhaal van de Grieks-Romeinse wereld. Van de Griekse stadsstaten in de vijfde eeuw voor Christus tot het machtige Romeinse rijk, de eerste echte supermacht. Van Homeros tot Hadrianus, van Solon tot Romulus Augustulus. Van Hooff doorspekt zijn verhaal met mooie anekdotes, vertaalde citaten, spreuken en opvallende parallellen met latere tijden. Bestaat het jaar nul wel echt? Wat zit er achter het gezegde 'geld stinkt niet'?"
+			]
+		},
+		"website": "https://nl.wikipedia.org/wiki/Anton_van_Hooff"
+	},
+	{
+		"title": "Alles wat in dit boek staat is waar (en andere denkfouten)",
+		"author": {
+			"name": "Maarten Boudry & Jeroen Hopster"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/alles_wat_in_dit_boek_staat_is_waar.jpg"
+		},
+		"category": "other",
+		"isbn": "ISBN 978-94-63104-77-7",
+		"year": 2019,
+		"content": {
+			"summary": "Het boek dat kromdenkers doet blozen",
+			"backcover": [
+				"Elke dag worden we overstelpt met meningen, argumenten, standpunten. Velen onder ons doen zelf mee aan de opiniestrijd: in het café, aan de ontbijttafel of op sociale media. Wij proberen anderen te overtuigen, en anderen ons. Maar wat zijn de valkuilen van ons denken? Welke retorische trucjes gebruiken slimme overtuigers om indruk te maken? Welke argumenten klinken redelijk, maar zijn bij nader inzien kletspraat? Al sinds Aristoteles speuren filosofen naar denkfouten en drogredenen. Alleen zijn die oude lijstjes niet aangepast aan onze moderne tijd. Ze zijn aan herziening toe. In Alles wat in dit boek staat is waar (en andere denkfouten) leggen Maarten Boudry en Jeroen Hopster denkfouten bloot waaraan we ons allemaal weleens bezondigen. Dat levert verfrissende analyses en prikkelende inzichten op. En ook een reeks nieuwe concepten: van de wij-bak tot neusdrukken, van wafelijzermoraal tot het applausargument. Wie deze fijne selectie van denkfouten tot zich neemt, is een stuk beter gewapend in de moderne opinieoorlog."
+			]
+		},
+		"website": "https://maartenboudry.be/"
+	},
+	{
+		"title": "Wiskunde is overal",
+		"author": {
+			"name": "Ben Orlin"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/wiskunde_is_overal.jpg"
+		},
+		"category": "mathematics",
+		"isbn": "ISBN 978-94-01459-29-7",
+		"year": 2018,
+		"content": {
+			"summary": "Wiskunde saai en ondoorgrondelijk? Vergeet het maar!",
+			"backcover": [
+				"In Wiskunde is overal neemt Ben Orlin je mee op een meeslepende reis in de wonderlijke wereld van de wiskunde. Hij vertelt je wat een dobbelsteen je kan leren over een economische crisis, legt uit waarom je statistiek nooit mag vertrouwen en verklaart waarom de Death Star uit Star Wars elke wiskundige migraine bezorgt.",
+				"Hij illustreert elk onderwerp in zijn boek met zijn unieke handelsmerk: heerlijk simpele tekeningen waarmee hij nooit of te nimmer een artistieke prijs zal winnen, maar die er als geen ander in slagen wiskundige begrippen glashelder uit te leggen. Van verzekeringen via stadsontwikkeling tot de loterij: met zijn wervende verhalen en vooral veel gevoel voor humor bewijst Ben Orlin als geen ander hoe wiskunde echt overal in ons leven aanwezig is."
+			]
+		},
+		"website": "https://www.lannoo.be/nl/wiskunde-overal"
+	},
+	{
+		"title": "100 maritieme uitvindingen: van astronavigatie tot zeemansgraf",
+		"author": {
+			"name": "Michiel van Straten & Peter Schermer"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/100_maritieme_uitvindingen.jpg"
+		},
+		"category": "history",
+		"isbn": "ISBN 978-90-64106-97-2",
+		"year": 2019,
+		"content": {
+			"summary": "Dit boek biedt een dwarsdoorsnede van wat 10.000 jaar varen op zee ons gebracht heeft, van wereldkaart tot pizza marinara en van piraten tot gps. Ontdek onze maritieme geschiedenis en laat je verbazen door onze vindingrijkheid. Een leuk en leerzaam boek voor zeelui én landrotten.",
+			"backcover": [
+				"De mens is een geboren ontdekker. Van jongs af aan zijn we nieuwsgierig naar onze omgeving en wat zich daarbuiten bevindt. Duizenden jaren geleden gingen onze voorouders al de zee op, voor voedsel, handel en het doen van ontdekkingen. Om dat mogelijk te maken bedachten we de boot en het zeil, vonden we het kompas en de verrekijker uit en ontdekten we Amerika en de Bermudadriehoek."
+			]
+		},
+		"website": "https://www.standaardboekhandel.be/p/100-maritieme-uitvindingen-9789064106972"
+	},
+	{
+		"title": "SAS: helden en schurken",
+		"author": {
+			"name": "Ben Macintyre"
+		},
+		"media": {
+			"title": "image title",
+			"src": "/static/images/SAS.jpg"
+		},
+		"category": "history",
+		"isbn": "ISBN 978-90-22583-88-3",
+		"year": 2018,
+		"content": {
+			"summary": "Hoe de speciale Britse eenheid de nazi's saboteerde en de uitkomst van de oorlog bepaalde... Het ware verhaal achter de geheime eenheid die tijdens de Tweede Wereldoorlog undercover ging bij de vijand.",
+			"backcover": [
+				"In de zomer van 1941, op het hoogtepunt van de oorlog in de Westelijke Sahara, bedenkt de jonge, excentrieke officier David Stirling een radicaal plan: een kleine undercovereenheid moet chaos veroorzaken achter de vijandelijke linies. Ondanks heftige tegenstand geeft Winston Churchill persoonlijk toestemming aan Stirling om de stoerste, slimste en meest meedogenloze soldaten die hij maar kan vinden te rekruteren – het startpunt voor de legendarische en meest gevierde militaire organisatie ter wereld: de SAS.",
+				"Nu, 75 jaar later, heeft de SAS eindelijk besloten haar ongelooflijke verhaal te delen, en zijn de geheime archieven voor het eerst opengesteld. Historicus Ben Macintyre heeft volledige toegang gekregen tot de schat aan rapporten, memo's, dagboeken, brieven, plattegronden en foto's. Daarnaast interviewde hij voor dit boek zowel nabestaanden als de nog levende SAS-leden van toen.",
+				"SAS: helden en schurken is een spannend verhaal over heldendom, roekeloosheid en tragedie; over uitzonderlijke mannen die bereid waren om indrukwekkende risico's te nemen."
+			]
+		},
+		"website": "https://www.boekerij.nl/producten/sas-helden-en-schurken-9789022583883"
 	}
 ]

@@ -13,7 +13,7 @@ import ISBNButton from './ISBNButton';
 import LanguageIcon from '@material-ui/icons/Language';
 import MenuBookIcon from '@material-ui/icons/MenuBook';
 import Typography from '@material-ui/core/Typography';
-import { DNALabel, MathLabel, WorldLabel } from './Labels'
+import { DNALabel, MathLabel, WorldLabel, HistoryLabel } from './Labels'
 import { Box, Tooltip } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
 		transform: 'rotate(180deg)',
 	},
 	avatar: {
-		backgroundColor: theme.palette.info.main,
+		backgroundColor: theme.palette.primary.main,
 		width: '4em',
 		height: '4em',
 	},
@@ -56,6 +56,7 @@ const useStyles = makeStyles((theme) => ({
 const scienceCategory = "science"
 const mathematicsCategory = "mathematics"
 const geographyCategory = "geography"
+const historyCategory = "history"
 
 export default function BookCard(props) {
 	const classes = useStyles();
@@ -77,6 +78,8 @@ export default function BookCard(props) {
 				return <MathLabel color="secondary" />;
 			case geographyCategory:
 				return <WorldLabel color="secondary" />;
+			case historyCategory:
+				return <HistoryLabel color="secondary" />;
 			default:
 				return null
 		}

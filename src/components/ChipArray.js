@@ -2,7 +2,7 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Chip from '@material-ui/core/Chip';
 import Paper from '@material-ui/core/Paper';
-import { DNALabel, MathLabel } from './Labels'
+import { DNALabel, MathLabel, HistoryLabel } from './Labels'
 
 const useStyles = makeStyles((theme) => ({
 	root: {
@@ -41,6 +41,14 @@ export default function ChipsArray(props) {
 			variant={(data.key === selectedKey) ? "default" : "outlined"}
 		/>
 	}
+	const historySelector = (data) => {
+		return <HistoryLabel
+			className={classes.chip}
+			color="primary"
+			onClick={handleClick(data)}
+			variant={(data.key === selectedKey) ? "default" : "outlined"}
+		/>
+	}
 	const defaultSelector = (data) => {
 		return <Chip
 			label={data.label}
@@ -55,7 +63,8 @@ export default function ChipsArray(props) {
 		{ key: 0, label: 'Alles', chip: defaultSelector, internalLabel: 'all' },
 		{ key: 1, label: 'Wetenschap', chip: scienceSelector, internalLabel: 'science' },
 		{ key: 2, label: 'Wiskunde', chip: mathSelector, internalLabel: 'mathematics' },
-		{ key: 3, label: 'Geschiedenis', chip: defaultSelector, internalLabel: 'history' },
+		{ key: 3, label: 'Geschiedenis', chip: historySelector, internalLabel: 'history' },
+		{ key: 4, label: 'Andere', chip: defaultSelector, internalLabel: 'other' },
 	];
 
 	return (
